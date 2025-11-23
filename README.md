@@ -7,6 +7,7 @@ The effectiveness of machine learning algorithms in OTT platforms and determine 
 
 
 •	To analyze user demographics, viewing habits, content preferences, and engagement patterns of OTT users.
+
 •	To identify a suitable model for the data and analyze it through evaluation metrics by applying ML models to predict high user satisfaction.
 •	Suggest improvement for OTT services by identifying the key features that influence their choice.
 
