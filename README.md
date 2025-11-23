@@ -9,6 +9,7 @@ The effectiveness of machine learning algorithms in OTT platforms and determine 
 •	To analyze user demographics, viewing habits, content preferences, and engagement patterns of OTT users.
 
 •	To identify a suitable model for the data and analyze it through evaluation metrics by applying ML models to predict high user satisfaction.
+
 •	Suggest improvement for OTT services by identifying the key features that influence their choice.
 
 
@@ -16,9 +17,13 @@ The effectiveness of machine learning algorithms in OTT platforms and determine 
 
 
 •	Data Collection and Processing: Primary data was collected (physical questionnaire) from the OTT users about 353 data were collected. 
+
 •	Tools Used: Jupyter Notebook tool used to create and run live code, equations, visualizations, and text. The Python Jypter Lab Version 4.0.9.
+
 •	Exploratory Data Analysis: The data was cleaned and transformed to make it suitable for analysis, modeling, and visualization. The dataset was pre-processed to eliminate errors, missing values, and removing outliers. 
+
 •	Finding the optimal classification: Various Classification models like Random Forest(RF), Decision Tree(DT), Naïve Bayes(NB), Logistic Regression(LR), and Support Vector Machine(SVM) are used to analyze the data. And calculating the evaluation metrics for each model. 
+
 •	Finding the feature importance of the model: The selection model is used to find out the feature importance for the various categories and plot them.
 
 
@@ -26,8 +31,11 @@ The effectiveness of machine learning algorithms in OTT platforms and determine 
 
 
 •	The analysis examined OTT users demographic characteristics, usage patterns, content preferences, satisfaction factors, and the key determinants influencing overall user experience. 
+
 •	Descriptive statistics showed that most respondents were aged 18–24, with students forming the majority demographic. 
+
 •	Netflix, Amazon Prime, and Disney+ Hotstar emerged as the most commonly used OTT platforms. A large portion uses 2–3 platforms concurrently.This indicates multi-platform consumption behavior typical in India.
+
 •	Usage frequency was high, with many users accessing OTT services daily and spending 1–3 hours per day on average.
 
 
@@ -35,6 +43,7 @@ The effectiveness of machine learning algorithms in OTT platforms and determine 
 
 
 •	Highest-rated of mean score falls on Video quality offered, Original content, Recommendations, Content variety, Search function usability
+
 •	Lowest-rate of mean score falls on Social features, Rewatch content, Share content with others, Offline viewing
 
 
@@ -42,8 +51,11 @@ The effectiveness of machine learning algorithms in OTT platforms and determine 
 
 
 •	Machine learning models like Logistic Regression, Decision Tree, Random Forest, Naive Bayes, and SVM were used to predict whether users reported high overall experience. 
+
 •	Among these, the Random Forest classifier achieved the strongest accuracy and F1-score, making it the most reliable model. 
+
 •	Feature importance analysis from Random Forest showed that factors such as sharing accounts, original content, and video quality offered contributed the most to predicting high user satisfaction, whereas features like offline downloads and social features had comparatively lower influence.
+
 •	The analysis indicates that user satisfaction is multidimensional and strongly tied to content quality, technical performance, personalization, and flexible platform features.
 
 
